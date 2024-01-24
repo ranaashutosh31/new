@@ -32,26 +32,22 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Startup Landing Page",
-    description:
-      "This is a landing webpage for the startup called BR Softsol.",
+    description: "This is a landing webpage for the startup called BR Softsol.",
     url: "https://ranaashutosh31.github.io/BR-SoftSol-SampleWebsite/",
   },
   {
     title: "Electric Utility Site",
-    description:
-      "This is an Electric Utility Website with many features available.",
+    description: "This is an Electric Utility Website with many features available.",
     url: "https://ranaashutosh31.github.io/Electric_Utility_Website/index.html",
   },
   {
     title: "Temple Travel Site",
-    description:
-      "This is a Temple Travel Website implicit with parallax effect.",
+    description: "This is a Temple Travel Website implicit with parallax effect.",
     url: "https://ranaashutosh31.github.io/Temple_Travel/#",
   },
   {
     title: "To-Do WebAppv",
-    description:
-      "This is an under development To-Do List WebApp.",
+    description: "This is an under development To-Do List WebApp.",
     url: "https://ranaashutosh31.github.io/To-Do-List-WebApp/",
   },
 ];
